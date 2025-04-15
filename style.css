@@ -1,4 +1,28 @@
-body{
+body {
+    padding: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #ffd0d0;
+}
+
+.tudo {
+    background-color: #f88f8f;
+    padding: 5%;
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(222, 248, 238);
-}a
+}
+
+.campos {
+    font-size: 115%;
+}
+
+#botao {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 115%;
+    background-color: #ff3e3e;
+}
+
+.input {
+    width: 50%;
+}
